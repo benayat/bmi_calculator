@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="this_is_a_bmi_calculator_please_enter_relevant_input">this is a bmi calculator. please enter relevant input</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="gender">gender:</string>
+    <string name="seekbarcontent">seekbarContent</string>
+    <string name="cm">cm</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="calculate">calculate</string>
+    <string name="age">age</string>
+    <string name="calculated_weight">calculated weight</string>
+    <string name="bmi_result">bmi result</string>
+    <string name="weight_status_result">weight status result</string>
+    <string name="exit">exit</string>
+</resources>
